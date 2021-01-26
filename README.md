@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi! I'm Chris Hansen.
 
-<!--
-**Chris-Han3en/Chris-Han3en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [my site](https://chrishansen.tk).
+- 🌱 I’m currently learning js/html/css.
+- 📫 How to reach me: chris hansen#3106 on [discord](https://discord.com/channels/@me).
+- 💾 I dont use GitHub to store my projects, i use my own server, but when [my own site](https://chrishansen.tk) is devloped you can download my projects from there.
+
+- [x] start development of my site
+- [ ] complete front end code
+- [ ] complete back end code
+- [ ] Allow downloads of my projects
+
+If you find a issue with any of my code then don't hesitate to contact me.
