@@ -1,8 +1,6 @@
 # 👋 Hi! I'm Chris Hansen.
 
 
-
-- 🔭 I’m currently working on a chatting service
 - 📫 How to reach me: chris hansen#3106 on [discord](https://discord.com/channels/@me).
 
 
